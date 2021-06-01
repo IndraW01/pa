@@ -1,0 +1,9 @@
+.container {
+  width: 600px;
+  margin: auto;
+  padding: 20px;
+}
+.jalan {
+  font-size: 20px;
+  text-align: center;
+}
